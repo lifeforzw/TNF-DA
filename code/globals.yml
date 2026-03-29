@@ -1,0 +1,11 @@
+---
+
+  # Data&Model files
+  DATA_DIR: ''
+  MODEL_DIR: ''
+  
+  REMOTE_ROOT_URL: "https://memit.baulab.info"
+
+
+# datapth = '/home/zw/code/MyEdit/ModelEdit/data/'
+# modelpth = '/home/zw/code/models/'
